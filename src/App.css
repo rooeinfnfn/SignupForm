@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+.box {
+  /* display: flex; */
+  border: 2px solid black;
+  width: 25vw;
+  height: 55vh;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin: auto;
+  margin-top: 20vh;
+}
+
+.myBtn {
+  margin-top: 5vh;
+  margin-left: 2vw;
+}
