@@ -15,6 +15,7 @@ class Box4 extends Component {
     const itemsRef = firebase.database().ref("userSignUpData");
 
     const userSignUpData = {
+      id: 1,
       first_name: values.fname,
       last_name: values.lname,
       mobile: values.mobile,
