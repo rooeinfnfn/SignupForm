@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+SignUp Form
+This is a user signup form where the database is stored in Google Firebase
+
 
 ## Available Scripts
 
